@@ -1,7 +1,8 @@
 class dog{
-    private String name;
+    private int name;
     private int number;
-    public void setpig(){
-
+    public void setpig(int age,int name){
+            this.age=age;
+            this.name=name;
     }
 }
